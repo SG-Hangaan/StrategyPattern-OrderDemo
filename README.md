@@ -26,7 +26,7 @@ The Strategy Pattern typically consists of the following components:
 4. **Client:** The client code that interacts with the context object. Clients can change the strategy used by the context object without modifying its code, promoting flexibility and reusability.
 
 
-UML Diagram
+#  UML Class Diagram
 
 ![image](https://github.com/SG-Hangaan/Strategy-Pattern/assets/127215110/a663f582-d5dc-4e06-95c7-65d052f6e0f2)
 
